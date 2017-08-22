@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.btnDelete {
+  padding : 0 5px;
+  margin : 0 5px;
+  cursor: pointer;
+  color : red;
+  font-size: 24px;
+  border: 1px solid darkred;
+  border-radius: 3px;
+}
